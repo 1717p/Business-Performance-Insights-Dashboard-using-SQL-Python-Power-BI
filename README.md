@@ -1,7 +1,4 @@
 # Business-Performance-Insights-Dashboard-using-SQL-Python-Power-BI
-Perfect — you’ve got a solid real-world business problem and a clean workflow! Here's a **polished version** you can directly use in your `README.md` file under a **“📘 Project Overview”** section:
-
----
 
 ## 📘 Project Overview
 
@@ -49,13 +46,7 @@ This project was carried out in the following steps:
 
 ---
 
-Let me know if you want to add:
 
-* 🧠 Research questions you solved
-* 📸 Screenshots of dashboard or graphs
-* 🗃️ Tech stack/tools section
-
-I can also help write a “How to Run” section or deployment steps if you're planning to share the project.
 
 
 
