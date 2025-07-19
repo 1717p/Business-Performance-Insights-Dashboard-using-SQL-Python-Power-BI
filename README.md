@@ -45,7 +45,7 @@ This project was carried out in the following steps:
    * Compiled a structured report summarizing findings, interpretations, and business recommendations
 
 ## ✨Final Recommendations 
-*🔷Re-evaluate pricing for low-sales, high-margin brands to boost sales 
+* 🔷Re-evaluate pricing for low-sales, high-margin brands to boost sales 
 volume without sacrificing profitability. 
 *🔷Diversify vendor partnerships to reduce dependency on a few 
 suppliers and mitigate supply chain risks. 
