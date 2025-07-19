@@ -43,6 +43,7 @@ This project was carried out in the following steps:
 5. **Reporting**
 
    * Compiled a structured report summarizing findings, interpretations, and business recommendations
+   * 🌟 I’ve summarized only high-level insights here; the full strategic report is available for review on request.
 
 ## ✨Final Recommendations 
 * 🔷Re-evaluate pricing for low-sales, high-margin brands to boost sales 
