@@ -42,7 +42,8 @@ This project was carried out in the following steps:
 
 5. **Reporting**
 
-   * Compiled a structured report summarizing findings, interpretations, and business recommendations
+   * Compiled a structured report summarizing findings, interpretations, and business recommendations.
+     
    🔏Report is private due to dataset licensing restrictions.
 
 ## ✨Final Recommendations 
