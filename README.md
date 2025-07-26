@@ -46,6 +46,11 @@ This project was carried out in the following steps:
      
    🔏Report is private due to dataset licensing restrictions.
 
+## 📈 Key Insights:
+- Identified $2.71M in unsold inventory from low-performing vendors
+- 65.7% of purchases rely on top 10 vendors → high supply chain risk
+- Bulk purchasing led to 72% cost savings per unit
+
 ## ✨Final Recommendations 
 * Re-evaluate pricing for low-sales, high-margin brands to boost sales 
 volume without sacrificing profitability. 
