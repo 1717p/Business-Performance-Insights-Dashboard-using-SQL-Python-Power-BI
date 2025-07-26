@@ -1,4 +1,4 @@
-# Business-Performance-Insights-Dashboard-using-SQL-Python-Power-BI
+#  Vendor Profitability & Sales Performance Insights(SQL · Python · Power BI)
 
 ## 📘 Project Overview
 
